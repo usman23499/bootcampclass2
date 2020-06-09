@@ -5,9 +5,13 @@ import './App.css';
 function App() {
   return (
     <div >
-      My name is USMAN HUSSAIN
-      My name is USMAN HUSSAIN
-       My name is USMAN HUSSAIN
+     <h1>My name is Muhamad Usman Hussain
+       </h1>
+       <h1>My name is Muhamad Usman Hussain
+       </h1>
+       <h1>My name is Muhamad Usman Hussain
+       </h1>
+
     </div>
   );
 }
