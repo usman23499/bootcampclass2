@@ -6,6 +6,8 @@ function App() {
   return (
     <div >
       My name is USMAN HUSSAIN
+      My name is USMAN HUSSAIN
+      My name is USMAN HUSSAIN
     </div>
   );
 }
