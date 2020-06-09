@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -9,8 +9,7 @@ function App() {
        </h1>
        <h1>My name is Muhamad Usman Hussain
        </h1>
-       <h1>My name is Muhamad Usman Hussain
-       </h1>
+       
 
     </div>
   );
