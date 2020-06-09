@@ -1,5 +1,5 @@
 import React from 'react';
-
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div >
       My name is USMAN HUSSAIN
       My name is USMAN HUSSAIN
-      My name is USMAN HUSSAIN
+       My name is USMAN HUSSAIN
     </div>
   );
 }

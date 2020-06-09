@@ -32,4 +32,4 @@ jobs:
     - name: installing Surge
       run : npm install -g surge
     - name : Deploying  on Surge 
-      run: surge  http://aquatic-credit.surge.sh/ --token ${{secrets.SURGETOKEN}} 
+      run: surge ./ http://aquatic-credit.surge.sh --token ${{secrets.SURGETOKEN}} 
